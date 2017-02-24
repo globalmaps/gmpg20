@@ -9,5 +9,5 @@ Credit: "Global Map of Papua New Guinea © ISCGM/ National Mapping Bureau"
 
 Contact: National Mapping Bureau
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/papua.png)
+E-mail: ![email](email.png)
 
